@@ -56,12 +56,8 @@ A base contém informações de profissionais da área de tecnologia entre os an
 ```text
 AT5_Salarios_TI/
 
-├── data/
-│   └── data_science_salaries.csv
-│
-├── notebooks/
-│   └── AT5_Salarios_TI_Real.ipynb
-│
+├── data_science_salaries.csv
+├── AT5_Salarios_TI_Real.ipynb
 ├── imagens/
 │   ├── distribuicao_salarios.png
 │   ├── salarios_experiencia.png
@@ -70,8 +66,6 @@ AT5_Salarios_TI/
 │   └── correlacao.png
 │
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
