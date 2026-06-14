@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de Ciência de Dados da Universidade Católica de Brasília (UCB) e tem como objetivo analisar salários de profissionais da área de tecnologia utilizando técnicas de Análise Exploratória de Dados (EDA) e Machine Learning.
+Este projeto foi desenvolvido como parte da disciplina de Novas Tecnologias da Universidade Católica de Brasília (UCB) e tem como objetivo analisar salários de profissionais da área de tecnologia utilizando técnicas de Análise Exploratória de Dados (EDA) e Machine Learning.
 
 Através de uma base de dados contendo informações de milhares de profissionais do setor, foram realizadas análises estatísticas, visualizações gráficas e a construção de modelos preditivos para estimar salários com base em diferentes características profissionais.
 
@@ -186,14 +186,14 @@ AT5_Salarios_TI_Real.ipynb
 
 | Nome         | Responsabilidade               |
 | ------------ | ------------------------------ |
-| Integrante 1 | Análise Exploratória dos Dados |
-| Integrante 2 | Modelagem e Machine Learning   |
+| AILTON DOS SANTOS DA SILVA | Análise Exploratória dos Dados |
+| ANTONIO VINÍCIUS ALVINO SILVA  | Modelagem e Machine Learning   |
 
 ---
 
 ## 🎓 Disciplina
 
-Ciência de Dados
+Novas tecnologias
 
 **Universidade Católica de Brasília (UCB)**
 
