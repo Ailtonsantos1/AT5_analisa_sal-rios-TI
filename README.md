@@ -193,12 +193,11 @@ Novas tecnologias
 
 ---
 
-## 🔗 Repositório GitHub
+## 🔗 Repositório
 
-Adicionar o link do projeto após a publicação:
 
 ```text
-https://github.com/Ailtonsantos1/AT5_analisa_sal-rios-TI
+https://www.kaggle.com/datasets/sazidthe1/data-science-salaries?resource=download
 ```
 
 ---
